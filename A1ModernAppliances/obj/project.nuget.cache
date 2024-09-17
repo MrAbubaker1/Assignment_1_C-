@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "biK/TF/WF0TVRDVL/pozVawaFU70+YU2fh/or49jHslxE0kk2VIt0JevjTdd7ck4NkOggBvHQjPjbhCs1JeIfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaryd\\OneDrive\\Documents\\GitHub\\Assignment_1CSharp\\A1ModernAppliances\\ModernAppliances.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaryd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\jaryd\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\jaryd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\jaryd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
